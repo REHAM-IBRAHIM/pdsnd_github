@@ -1,7 +1,8 @@
 import time
 import pandas as pd
 import numpy as np
-#add descrip data 
+#add descrip data.
+
 CITY_DATA = { 'chicago': '.\data\chicago.csv',
               'new york city': '.\data\\new_york_city.csv',
               'washington': '.\data\washington.csv' }
