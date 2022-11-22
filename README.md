@@ -1,17 +1,13 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+15 November 2022
 
-### Project Title
-Replace the Project Title
+###Description:
 
-### Description
-Describe what your project is about and what it does
+data on bikeshare trips is available, a python script was created to analyze the data to get an overview on consumers behavior. the script loads data from different CSV files and runs statistical calculations on trips, stations, users and other elements to achieve the purpose previously mentioned.
 
 ### Files used
-Include the files used
+chicago data.csv new_york_city data.csv washington data.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+###Credits
+https://stackoverflow.com was consulted to help figure out certain issues such as date conversion and functions errors.
