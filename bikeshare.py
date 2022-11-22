@@ -51,7 +51,7 @@ def get_filter_city():
     city = cities_list[city_num - 1]
     return city
 
-
+#use the while if else 
 def get_filter_month():
     """
     Asks user to specify a month to filter on, or choose all.
