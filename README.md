@@ -15,4 +15,5 @@ data on bikeshare trips is available, a python script was created to analyze the
 
 
 ###Credits
+<br/>
 https://stackoverflow.com was consulted to help figure out certain issues such as date conversion and functions errors.
